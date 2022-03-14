@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to RincolF's blog!
 
 You can use the [editor on GitHub](https://github.com/RincolF/RincolF.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
